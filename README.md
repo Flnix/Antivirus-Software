@@ -1,4 +1,3 @@
-```markdown
 # Comprehensive Antivirus Software Project
 
 ---
@@ -109,4 +108,4 @@ Students will have the significant opportunity to research, evaluate, and select
 * **Process Monitoring:** Explore basic techniques for monitoring running processes.
 * **Reporting & Logging Enhancement:** Improve logging detail and report generation.
 * **Testing & Debugging:** Rigorous testing against safe malware samples and benign files.
-```
+
