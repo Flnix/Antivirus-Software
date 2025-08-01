@@ -75,9 +75,9 @@ Students will have the significant opportunity to research, evaluate, and select
 * **File System & Process Interaction Libraries/APIs:** Operating system-specific interfaces for low-level file system access, process enumeration, and potential system monitoring.
 * **Cryptographic Hashing Libraries:** For generating unique identifiers (hashes) of files (e.g., supporting SHA256, MD5, etc.).
 * **Pattern Matching & String Manipulation Libraries:** For efficient searching of byte sequences within files.
-* **Machine Learning Frameworks:** For building and deploying AI models (e.g., TensorFlow, PyTorch, scikit-learn).
+* **Machine Learning Frameworks:** For building and deploying AI models (e.g., TensorFlow, PyTorch, scikit-learn).   --OPTIONAL
 * **Data Storage:** For managing signature databases and logs (e.g., SQLite for local storage, plain text files).
-* **User Interface Frameworks:** For developing desktop applications (e.g., Qt, GTK, WPF, Tkinter).
+* **User Interface Frameworks:** For developing desktop applications (e.g., Qt, GTK, WPF, Tkinter).   --OPTIONAL
 
 ---
 
@@ -103,7 +103,7 @@ Students will have the significant opportunity to research, evaluate, and select
 * **Quarantine Mechanism:** Develop the secure file quarantining functionality.
 * **Basic User Interface:** Create a command-line or simple graphical interface for initiating scans and viewing results.
 
-### Phase 4: Advanced Detection & Refinement
+### Phase 4: Advanced Detection & Refinement (Optional)
 
 * **Machine Learning Integration:** Begin integrating ML models for more sophisticated detection.
 * **Process Monitoring:** Explore basic techniques for monitoring running processes.
